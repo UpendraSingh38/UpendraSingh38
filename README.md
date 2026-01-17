@@ -4,7 +4,7 @@ I’m a passionate Full Stack Developer with a strong foundation in building res
 
 
 ## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/upendra-singh-73a172247)  [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:upendrasingh9989@gmail.com)![Website](https://img.shields.io/website?url=https%3A%2F%2Fpersonal-portfolio-neon-rho-40.vercel.app%2F)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/upendra-singh-73a172247)  [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:upendrasingh9989@gmail.com)[![Website](https://img.shields.io/website?url=https%3A%2F%2Fpersonal-portfolio-neon-rho-40.vercel.app%2F)](https://personal-portfolio-neon-rho-40.vercel.app/)
 
 
 
