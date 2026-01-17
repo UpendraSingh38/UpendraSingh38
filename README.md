@@ -1,5 +1,6 @@
 # 💫 About Me:
-I'm full-stack developer  
+I’m a passionate Full Stack Developer with a strong foundation in building responsive web applications using modern frontend and backend technologies. I enjoy turning ideas into real-world applications, writing clean and efficient code, and continuously learning new tools and frameworks. I have hands-on experience with developing APIs, working with databases, and creating user-friendly interfaces. I’m eager to grow as a developer, contribute to meaningful projects, and collaborate with others to solve real problems through technology.
+ 
 
 
 ## 🌐 Socials:
